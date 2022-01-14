@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OsuSongSplitter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"H:\\Osu\\Songs\\856473 Aimer - Through My Blood AM\\Aimer - Through My Blood AM (Raveille) [Stage 3 Energy].osu\""
+    }
+  }
+}
